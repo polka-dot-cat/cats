@@ -4,19 +4,19 @@ protocol: https
 
 clowder:
   cats:
-    - name: JrGoodle/mu
+    - name: polka-dot-cat/mu
       branch: knead
       groups: [notdefault]
-    - name: JrGoodle/mu
+    - name: polka-dot-cat/mu
       path: mu-cat
       branch: knead
-    - name: JrGoodle/duke
+    - name: polka-dot-cat/duke
       branch: purr
       groups: [notdefault]
   black-cats:
     path: black-cats
     projects:
-      - JrGoodle/kit
-      - JrGoodle/kishka
-      - JrGoodle/june
-      - JrGoodle/sasha
+      - polka-dot-cat/kit
+      - polka-dot-cat/kishka
+      - polka-dot-cat/june
+      - polka-dot-cat/sasha

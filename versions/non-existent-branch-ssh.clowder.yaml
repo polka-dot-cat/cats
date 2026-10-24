@@ -5,12 +5,12 @@ defaults:
 
 clowder:
   cats:
-    - JrGoodle/mu
-    - JrGoodle/duke
+    - polka-dot-cat/mu
+    - polka-dot-cat/duke
   black-cats:
     path: black-cats
     projects:
-      - JrGoodle/kit
-      - JrGoodle/kishka
-      - JrGoodle/june
-      - JrGoodle/sasha
+      - polka-dot-cat/kit
+      - polka-dot-cat/kishka
+      - polka-dot-cat/june
+      - polka-dot-cat/sasha

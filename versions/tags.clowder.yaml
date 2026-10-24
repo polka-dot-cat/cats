@@ -4,16 +4,16 @@ protocol: https
 
 clowder:
   cats:
-    - name: JrGoodle/mu
+    - name: polka-dot-cat/mu
       tag: test-clowder-yaml-tag
-    - name: JrGoodle/duke
+    - name: polka-dot-cat/duke
       tag: purr
   black-cats:
     path: black-cats
     defaults:
       tag: v0.01
     projects:
-      - JrGoodle/kit
-      - JrGoodle/kishka
-      - JrGoodle/june
-      - JrGoodle/sasha
+      - polka-dot-cat/kit
+      - polka-dot-cat/kishka
+      - polka-dot-cat/june
+      - polka-dot-cat/sasha

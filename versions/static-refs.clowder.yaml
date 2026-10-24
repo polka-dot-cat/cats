@@ -4,18 +4,18 @@ protocol: https
 
 clowder:
   cats:
-    - name: JrGoodle/mu
+    - name: polka-dot-cat/mu
       commit: cddce39214a1ae20266d9ee36966de67438625d1
-    - name: JrGoodle/duke
+    - name: polka-dot-cat/duke
       commit: 7083e8840e1bb972b7664cfa20bbd7a25f004018
   black-cats:
     path: black-cats
     projects:
-      - name: JrGoodle/kit
+      - name: polka-dot-cat/kit
         commit: da5c3d32ec2c00aba4a9f7d822cce2c727f7f5dd
-      - name: JrGoodle/kishka
+      - name: polka-dot-cat/kishka
         commit: d185e3bff9eaaf6e146d4e09165276cd5c9f31c8
-      - name: JrGoodle/june
+      - name: polka-dot-cat/june
         commit: b6e1316cc62cb2ba18fa982fc3d67ef4408c8bfd
-      - name: JrGoodle/sasha
+      - name: polka-dot-cat/sasha
         commit: 775979e0b1a7f753131bf16a4794c851c67108d8

@@ -4,17 +4,17 @@ protocol: https
 
 clowder:
   cats:
-    - name: JrGoodle/mu
+    - name: polka-dot-cat/mu
       branch: knead
       git:
         config:
           alias.something: "!echo 'Run git something alias installed via clowder'; touch something"
-    - name: JrGoodle/duke
+    - name: polka-dot-cat/duke
       branch: purr
   black-cats:
     path: black-cats
     projects:
-      - JrGoodle/kit
-      - JrGoodle/kishka
-      - JrGoodle/june
-      - JrGoodle/sasha
+      - polka-dot-cat/kit
+      - polka-dot-cat/kishka
+      - polka-dot-cat/june
+      - polka-dot-cat/sasha
